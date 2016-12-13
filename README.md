@@ -1,2 +1,2 @@
 # spelloutnumbers
-Website to write out numbers in different languages 
+Website to write out numbers in different languages. 
